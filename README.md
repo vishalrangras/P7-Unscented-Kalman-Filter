@@ -49,21 +49,28 @@ The goals for this project are to:
 [image5]: ./img/Reading-05.PNG "Reading-05"
 [image6]: ./img/Reading-06.PNG "Reading-06"
 
-#### Using default process noise values i.e. std_a_ = 30 & std_yawdd_ = 30 ####
+
+
+<h3 align="center"> Using default process noise values i.e. std_a_ = 30 & std_yawdd_ = 30 <h3>
 ![alt text][image1]
 
-#### Using process noise values of std_a_ = 3 & std_yawdd_ = 3 ####
+
+<h3 align="center"> Using process noise values of std_a_ = 3 & std_yawdd_ = 3 <h3>
 ![alt text][image2]
 
-#### Using process noise values of std_a_ = 3 & std_yawdd_ = 0.3 ####
+
+<h3 align="center"> Using process noise values of std_a_ = 3 & std_yawdd_ = 0.3 <h3>
 ![alt text][image3]
 
-#### Using process noise values of std_a_ = 3 & std_yawdd_ = 3 ####
-#### Initilizing Process covariance matrix using values of std_laspx_ & std_laspy_ ####
+
+<h3 align="center"> Initilizing Process covariance matrix using values of std_laspx_ & std_laspy_ <h3>
+<h3 align="center"> Using process noise values of std_a_ = 3 & std_yawdd_ = 3 <h3>
 ![alt text][image4]
 
-#### Tracking using only Laser data while keeping Radar data off. ####
+
+<h3 align="center"> Tracking using only Laser data while keeping Radar data off. <h3>
 ![alt text][image5]
 
-#### Tracking using only Radar data while keeping Laser data off. ####
+
+<h3 align="center"> Tracking using only Radar data while keeping Laser data off. <h3>
 ![alt text][image6]
