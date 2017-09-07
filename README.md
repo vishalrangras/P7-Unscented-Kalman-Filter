@@ -42,12 +42,12 @@ The goals for this project are to:
 
 **P. S. :** The letter `R` stands for `Reading` in the column names of above table.
 
-[image1]: ./img/Reading-01.png "Reading-01"
-[image2]: ./img/Reading-02.png "Reading-02"
-[image3]: ./img/Reading-03.png "Reading-03"
-[image4]: ./img/Reading-04.png "Reading-04"
-[image5]: ./img/Reading-05.png "Reading-05"
-[image6]: ./img/Reading-06.png "Reading-06"
+[image1]: ./img/Reading-01.PNG "Reading-01"
+[image2]: ./img/Reading-02.PNG "Reading-02"
+[image3]: ./img/Reading-03.PNG "Reading-03"
+[image4]: ./img/Reading-04.PNG "Reading-04"
+[image5]: ./img/Reading-05.PNG "Reading-05"
+[image6]: ./img/Reading-06.PNG "Reading-06"
 
 ![alt text][image1]
 ![alt text][image2]
