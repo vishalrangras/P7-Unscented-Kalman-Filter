@@ -27,8 +27,31 @@ The goals for this project are to:
 
 ### Results ###
 
-[image1]: ./img/Dataset-01.png "Dataset-01"
-[image2]: ./img/Dataset-02.png "Dataset-02"
+|            | R 1    | R 2    | R 3    | R 4    | R 5    | R 6    |
+|------------|--------|--------|--------|--------|--------|--------|
+| P_(1,1)    | 1      | 1      | 1      | 0.15   | 0.15   | 0.15   |
+| P_(2,2)    | 1      | 1      | 1      | 0.15   | 0.15   | 0.15   |
+| std_a_     | 30     | 3      | 3      | 3      | 3      | 3      |
+| std_yawdd_ | 30     | 3      | 0.3    | 0.3    | 0.3    | 0.3    |
+| radar      | true   | true   | true   | true   | false  | true   |
+| laser      | true   | true   | true   | true   | true   | false  |
+| px         | 0.0965 | 0.0775 | 0.0800 | 0.0786 | 0.2356 | 2.0519 |
+| py         | 0.1202 | 0.0909 | 0.0878 | 0.0851 | 0.1590 | 1.4467 |
+| vx         | 0.8101 | 0.3631 | 0.3449 | 0.3307 | 3.6168 | 2.2104 |
+| vy         | 1.0176 | 0.4410 | 0.4045 | 0.3067 | 3.4144 | 3.1160 |
+
+**P. S. :** The letter `R` stands for `Reading` in the column names of above table.
+
+[image1]: ./img/Reading-01.png "Reading-01"
+[image2]: ./img/Reading-02.png "Reading-02"
+[image3]: ./img/Reading-03.png "Reading-03"
+[image4]: ./img/Reading-04.png "Reading-04"
+[image5]: ./img/Reading-05.png "Reading-05"
+[image6]: ./img/Reading-06.png "Reading-06"
 
 ![alt text][image1]
 ![alt text][image2]
+![alt text][image3]
+![alt text][image4]
+![alt text][image5]
+![alt text][image6]
